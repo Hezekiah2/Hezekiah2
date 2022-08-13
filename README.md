@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Hezekiah2
 - 👀 I’m interested in html and css projects
 - 🌱 I’m currently learning python, JavaScript
-- 💞️ I’m looking to collaborate on website design project
-S and other related businesses.
+- 💞️ I’m looking to collaborate on website design projects and other related businesses.
 - 📫 contact me via email at hezekiahopapa@gmail.com
 
 <!---
